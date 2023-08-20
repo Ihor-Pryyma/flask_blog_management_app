@@ -1,0 +1,26 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Database
+sqlitedb.file
+
+# Logs
+*.log
+
+# Local configuration
+config.py
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
